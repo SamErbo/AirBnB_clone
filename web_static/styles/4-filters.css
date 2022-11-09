@@ -15,5 +15,12 @@ button {
 	color: #FFFFFF;
 	height: 48px;
 	width: 20%;
+    border: 0;
 	border-radius: 4px;
+}
+
+
+button:hover {
+	opacity: 90%;
+	cursor: pointer;
 }
